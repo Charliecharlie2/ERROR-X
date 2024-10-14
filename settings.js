@@ -1,32 +1,32 @@
-//base by ERROR-X 
+//base by Sheriff 2.0 
 //YouTube: 
 //Instagram: 
 //Telegram: 
 //GitHub: @DGXeon
-//WhatsApp: +2349125042727
+//WhatsApp: +2348137031314
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@emmanuelhenshaw-e9r?si=-BUpPC455t3J2Qcb
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349125042727"
-global.ownername = "EMMY_HENZ-TECH👑"
+global.ownernomer = "2348137031314"
+global.ownername = "sheriff 2.0"
 global.ytname = "YT: EMMY-HENZ"
 global.socialm = "GitHub: EMMY_HENZ-TECH"
-global.location = "Nigeria,Cross River,Calabar"
+global.location = "Nigeria,lagos,ikeja"
 
-global.ownernumber = '2349125042727'  //creator number
-global.ownername = 'EMMY_HENZ-TECH👑' //owner name
-global.botname = 'ERROR-X☠💀☠' //name of the bot
+global.ownernumber = '2348137031314'  //creator number
+global.ownername = 'sheriff 2.0👑' //owner name
+global.botname = 'sheriff 2.0' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'EMMY HENZ👑\n\nContact: +2349125042727'
+global.author = 'EMMY HENZ👑\n\nContact: +2348137031314'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "EMMY HENZ Inc."
+global.wm = "sheriff 2.0."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C'
